@@ -1,2 +1,1 @@
-
-https://github.com/anna-titko/rsschool-cv/blob/gh-pages/rsschool-cv/cv.md
+https://anna-titko.github.io/rsschool-cv/
